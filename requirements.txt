@@ -4,3 +4,4 @@ numpy
 spicy
 sklearn
 statsmodels
+matplotlib
