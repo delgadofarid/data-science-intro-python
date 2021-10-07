@@ -5,3 +5,4 @@ spicy
 sklearn
 statsmodels
 matplotlib
+seaborn
